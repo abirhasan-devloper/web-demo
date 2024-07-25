@@ -1,0 +1,30 @@
+div {
+  /* border: 1px solid black; */
+}
+.material-symbols-outlined {
+  cursor: pointer;
+}
+.vh-50 {
+  height: 50vh !important;
+}
+.card{
+  width: 18rem;
+  height: 25rem;
+}
+.card img{
+  height: 20rem;
+  width: 20rem;
+}
+.add-to-cart{
+  background-color: black;
+  color: white;
+  padding: 0.5rem;
+  border-radius: 100px;
+}
+
+@media (min-width:576px) {
+  .search-containe {
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+}
